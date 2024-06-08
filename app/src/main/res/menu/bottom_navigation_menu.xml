@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/generate"
+        android:icon="@drawable/generate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Генератор QR" />
+    <item
+        android:id="@+id/scanner"
+        android:icon="@drawable/scan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Сканер QR" />
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/history"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="История" />
+</menu>
